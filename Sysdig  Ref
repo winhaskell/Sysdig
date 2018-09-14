@@ -1,0 +1,11 @@
+sysdig-for-linux
+http://cizixs.com/2017/04/27/sysdig-for-linux-system-monitor-and-analysis
+
+使用 sysdig 进行监控和调试 linux 机器
+
+Open Source Universal System Visibility With Native Contaier Support.
+
+它的定位是系统监控、分析和排障的工具，其实在 linux 平台上，已经有很多这方面的工具 strace、tcpdump、htop、iftop、lsof、netstat，
+它们都能用来分析 linux 系统的运行情况，而且还有很多日志、监控工具。为什么还需要 sysdig 呢,
+sysdig 的优点可以归纳为三个词语：整合、强大、灵活。
+
